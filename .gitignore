@@ -1,4 +1,4 @@
-.env,
-*.log,
-temp/,
+.env
+*.log
+temp/
 __pycache__/
